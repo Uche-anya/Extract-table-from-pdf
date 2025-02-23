@@ -1,6 +1,6 @@
 #  Extract Table from PDF
 
-This project extracts tables from **PDF files**, cleans the extracted data, and formats it into structured **CSV and Excel** files using **Python**.
+This project extracts tables from **PDF files** using **camelot** package, cleans the extracted data, and formats it into structured **CSV and Excel** files using **Python**.
 
 ##  Features
 - Extracts tables from **text-based PDFs**.
